@@ -7,8 +7,8 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#08124C",
-    "light": "#08124C",
+    "primary": "#04E1FF",
+    "light": "#04E1FF",
     "dark": "#04E1FF",
     "anchors": {
       "from": "#BE78FF",
@@ -17,8 +17,6 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:support@instruqt.com"
     }
   ],
   "topbarCtaButton": {
