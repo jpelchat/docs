@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Documentation",
+  "name": "Instruqt Docs",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
+    "primary": "#08124C",
     "light": "#07C983",
     "dark": "#08124C",
     "anchors": {
@@ -18,11 +18,11 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:support@instruqt.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "Platform",
+    "name": "Sign in",
     "url": "https://play.instruqt.com"
   },
   "tabs": [
@@ -85,8 +85,6 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "github": "https://github.com/instruqt"
   }
 }
