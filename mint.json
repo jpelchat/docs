@@ -9,7 +9,7 @@
   "colors": {
     "primary": "#BE78FF",
     "light": "#BE78FF",
-    "dark": "#04E1FF",
+    "dark": "#BE78FF",
     "anchors": {
       "from": "#BE78FF",
       "to": "#FF50A4"
