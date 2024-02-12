@@ -15,14 +15,14 @@
       "to": "#FF50A4"
     }
   },
-  "topbarCtaButton": {
-    "name": "Sign in",
-    "url": "https://play.instruqt.com"
-  },
   "tabs": [
     {
       "name": "API Reference",
       "url": "api-reference"
+    }
+    {
+      "name": "Examples",
+      "url": "examples"
     }
   ],
   "anchors": [
