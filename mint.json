@@ -15,10 +15,6 @@
       "to": "#FF50A4"
     }
   },
-  "topbarLinks": [
-    {
-    }
-  ],
   "topbarCtaButton": {
     "name": "Sign in",
     "url": "https://play.instruqt.com"
